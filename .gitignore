@@ -1,0 +1,26 @@
+# Node
+node_modules
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build
+dist
+.next
+out
+build
+
+# PM2
+dump.pm2
+
+# Logs
+logs
+*.log
