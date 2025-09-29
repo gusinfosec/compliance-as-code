@@ -1,5 +1,3 @@
-# Compliance-as-Code (CaC)
-
 ![CaC Logo](assets/cac-github.png)
 
 ---
@@ -9,8 +7,8 @@
 Automate your compliance journey with YAML-based policies, evidence collection, and audit dashboards.  
 Choose a subscription tier or a one-time download.
 
-[![Startup $99/mo](https://img.shields.io/badge/Startup-%2499%2Fmo-blue)](https://buy.stripe.com/startup-link)  
-[![Enterprise $499/mo](https://img.shields.io/badge/Enterprise-%24499%2Fmo-blueviolet)](https://buy.stripe.com/enterprise-link)
+[![Startup $99/mo](https://img.shields.io/badge/Startup-%2499%2Fmo-blue)](https://buy.stripe.com/3cIfZh8Yo9SL4bD12ffbq03)  
+[![Enterprise $499/mo](https://img.shields.io/badge/Enterprise-%24499%2Fmo-blueviolet)](https://buy.stripe.com/fZu3cv8Yo7KD4bD12ffbq04)
 
 ---
 
@@ -19,7 +17,7 @@ Choose a subscription tier or a one-time download.
 Prefer a single purchase? Get the current version as a direct download.  
 *(Future updates require a new purchase or Stripe subscription.)*
 
-[![Ko-fi $15](https://img.shields.io/badge/Ko--fi-%2415-orange)](https://ko-fi.com/YOUR_KOFI_LINK)
+[![Ko-fi $15](https://img.shields.io/badge/Ko--fi-%2415-orange)](https://ko-fi.com/s/76ff7669fc)
 
 ---
 
