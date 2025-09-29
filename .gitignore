@@ -1,26 +1,64 @@
-# Node
-node_modules
+# ===============================
+# Node / PNPM
+# ===============================
+node_modules/
+.pnpm/
+.pnpm-workspace-state-v1.json
+
+# ===============================
+# Build outputs
+# ===============================
+dist/
+.next/
+out/
+build/
+coverage/
+
+# ===============================
+# Logs & debug
+# ===============================
 npm-debug.log*
-pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# Env
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Build
-dist
-.next
-out
-build
-
-# PM2
-dump.pm2
-
-# Logs
-logs
+pnpm-debug.log*
 *.log
+
+# ===============================
+# Env & secrets
+# ===============================
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# ===============================
+# Prisma
+# ===============================
+prisma/migrations/
+.prisma/
+
+# ===============================
+# OS junk
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE / editor settings
+# ===============================
+.vscode/
+.idea/
+*.swp
+
+# ===============================
+# Docker & Infra
+# ===============================
+infra/docker/.env
+docker-compose.override.yml
+
+# ===============================
+# Test files (if not meant for prod)
+# ===============================
+__tests__/
+*.spec.ts
+*.test.ts
