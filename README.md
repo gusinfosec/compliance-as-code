@@ -4,6 +4,14 @@
 
 ## 🚀 Get Compliance-as-Code
 
+# Compliance-as-Code
+
+![Build for Linux](https://img.shields.io/badge/build-Linux-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/gusinfosec/compliance-as-code?style=social)
+
+---
+
 Automate your compliance journey with YAML-based policies, evidence collection, and audit dashboards.  
 Choose a subscription tier or a one-time download.
 
