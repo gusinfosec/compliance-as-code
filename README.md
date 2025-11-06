@@ -66,7 +66,7 @@ Everything in Startup, plus:
 
 ---
 
-### ☕ One-Time Ko-fi Purchase — **$15**
+### ☕ One-Time Ko-fi Purchase — **$49**
 - Download current version instantly
 - No subscription required  
 *(future updates require new purchase or subscription)*
